@@ -1,4 +1,4 @@
 
 - [Astronomy Photos](https://yusufsehauysal.github.io/Astronomy/)
-- [Poems](https://yusufsehauysal.github.io/poems/)
+- [Poems](https://yusufsehauysal.github.io/Poems/)
 - [First attempt](https://yusufsehauysal.github.io/ubiquitous-fiesta/)

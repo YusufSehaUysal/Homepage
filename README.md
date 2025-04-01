@@ -1,2 +1,2 @@
-# homepage
-https://yusufsehauysal.github.io/homepage/
+# Homepage
+https://yusufsehauysal.github.io/Homepage/

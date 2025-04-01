@@ -1,4 +1,3 @@
-# Homepage
 
 - [Astronomy Photos](https://yusufsehauysal.github.io/astronomy/)
 - [Poems](https://yusufsehauysal.github.io/poems/)
